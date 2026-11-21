@@ -1,0 +1,12 @@
+name: "Slides.com"
+description: "Browser-based presentation editor with offline desktop app and team workspaces. Supports custom CSS, HTML, and version history."
+source_url: "https://slides.com/"
+category: "Presentation Software"
+tags:
+  - "freemium"
+  - "cloud"
+  - "code"
+  - "collaboration"
+icon_url: "https://icons.duckduckgo.com/ip3/slides.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://slides.com/>\n"
+updated_at: "2026-11-21 14:41"

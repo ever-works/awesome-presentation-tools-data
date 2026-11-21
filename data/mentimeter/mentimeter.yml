@@ -1,0 +1,13 @@
+name: "Mentimeter"
+description: "Live interaction tool for presentations with polls, quizzes, word clouds, and Q&A. Used in meetings, lectures, and events."
+source_url: "https://www.mentimeter.com/"
+category: "Interactive & Live Presentations"
+tags:
+  - "freemium"
+  - "cloud"
+  - "interactive"
+  - "live"
+  - "polling"
+icon_url: "https://icons.duckduckgo.com/ip3/www.mentimeter.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.mentimeter.com/>\n"
+updated_at: "2026-11-21 14:41"

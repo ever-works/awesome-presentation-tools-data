@@ -1,0 +1,12 @@
+name: "Zoho Show"
+description: "Online presentation software in the Zoho suite. Features collaborative editing, templates, and broadcast mode for remote presenting."
+source_url: "https://www.zoho.com/show"
+category: "Presentation Software"
+tags:
+  - "freemium"
+  - "cloud"
+  - "collaboration"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoho.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zoho.com/show>\n"
+updated_at: "2026-11-21 14:41"

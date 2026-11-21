@@ -1,0 +1,13 @@
+name: "Quarto"
+description: "Open-source publishing system for technical content. Supports Markdown, Jupyter notebooks, and reveal.js slide decks."
+source_url: "https://quarto.org/"
+category: "Markdown & Code Slides"
+tags:
+  - "open-source"
+  - "markdown"
+  - "scientific"
+  - "code"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/quarto.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://quarto.org/>\n- Repository: <https://github.com/quarto-dev/quarto>\n\nLicense: GPL-2.0-only.\n"
+updated_at: "2026-11-21 14:41"

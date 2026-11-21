@@ -1,0 +1,12 @@
+name: "Microsoft PowerPoint"
+description: "Presentation software in Microsoft 365 for creating slides with animations, transitions, and collaboration. Offers desktop and web versions with templates and enterprise features."
+source_url: "https://www.microsoft.com/en-us/microsoft-365/powerpoint"
+category: "Presentation Software"
+tags:
+  - "freemium"
+  - "enterprise"
+  - "cloud"
+  - "collaboration"
+icon_url: "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.microsoft.com/en-us/microsoft-365/powerpoint>\n"
+updated_at: "2026-11-21 14:41"

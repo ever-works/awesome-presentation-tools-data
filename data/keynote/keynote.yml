@@ -1,0 +1,12 @@
+name: "Keynote"
+description: "Apple presentation app for Mac, iPhone, and iPad. Free for Apple users, with iCloud sync, themes, and cinematic transitions."
+source_url: "https://www.apple.com/keynote"
+category: "Presentation Software"
+tags:
+  - "free"
+  - "apple"
+  - "cloud"
+  - "macos"
+icon_url: "https://icons.duckduckgo.com/ip3/www.apple.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.apple.com/keynote>\n"
+updated_at: "2026-11-21 14:41"

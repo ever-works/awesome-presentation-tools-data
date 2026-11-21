@@ -1,0 +1,12 @@
+name: "LibreOffice Impress"
+description: "Open-source presentation program in the LibreOffice suite. Supports slide creation, templates, and export to multiple formats."
+source_url: "https://www.libreoffice.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "desktop"
+  - "free-plan"
+  - "office-suite"
+icon_url: "https://icons.duckduckgo.com/ip3/www.libreoffice.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.libreoffice.org/>\n- Repository: <https://github.com/LibreOffice/core>\n\nLicense: MPL-2.0.\n"
+updated_at: "2026-11-21 14:41"

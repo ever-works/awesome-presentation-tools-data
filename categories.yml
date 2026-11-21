@@ -1,0 +1,12 @@
+- id: presentation-software
+  name: "Presentation Software"
+- id: ai-presentation-makers
+  name: "AI Presentation Makers"
+- id: markdown-and-code-slides
+  name: "Markdown & Code Slides"
+- id: interactive-and-live-presentations
+  name: "Interactive & Live Presentations"
+- id: pitch-deck-tools
+  name: "Pitch-Deck Tools"
+- id: open-source
+  name: "Open Source"

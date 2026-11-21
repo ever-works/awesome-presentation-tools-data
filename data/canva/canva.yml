@@ -1,0 +1,12 @@
+name: "Canva"
+description: "Online design tool with presentation templates, drag-and-drop editing, and brand kits. Used for slides, social media, and marketing materials."
+source_url: "https://www.canva.com/"
+category: "Presentation Software"
+tags:
+  - "freemium"
+  - "cloud"
+  - "design"
+  - "templates"
+icon_url: "https://icons.duckduckgo.com/ip3/www.canva.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.canva.com/>\n"
+updated_at: "2026-11-21 14:41"

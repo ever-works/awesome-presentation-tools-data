@@ -1,0 +1,12 @@
+name: "Marp"
+description: "Markdown slide deck writer with VS Code and CLI support. Converts Markdown files to PDF, PowerPoint, and images."
+source_url: "https://marp.app/"
+category: "Markdown & Code Slides"
+tags:
+  - "open-source"
+  - "markdown"
+  - "cli"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/marp.app.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://marp.app/>\n- Repository: <https://github.com/marp-team/marp>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 14:41"

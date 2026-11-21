@@ -1,0 +1,12 @@
+name: "SlidesAI"
+description: "Google Slides add-on that converts text into presentation slides. Supports multiple languages, themes, and auto-formatting."
+source_url: "https://slidesai.io/"
+category: "AI Presentation Makers"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "add-on"
+  - "google-slides"
+icon_url: "https://icons.duckduckgo.com/ip3/slidesai.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://slidesai.io/>\n"
+updated_at: "2026-11-21 14:41"

@@ -1,0 +1,13 @@
+name: "reveal.js"
+description: "Open-source HTML presentation framework for slides written in Markdown or HTML. Supports vertical navigation, plugins, and speaker view."
+source_url: "https://revealjs.com/"
+category: "Markdown & Code Slides"
+tags:
+  - "open-source"
+  - "markdown"
+  - "code"
+  - "html"
+  - "javascript"
+icon_url: "https://icons.duckduckgo.com/ip3/revealjs.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://revealjs.com/>\n- Repository: <https://github.com/hakimel/reveal.js>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 14:41"

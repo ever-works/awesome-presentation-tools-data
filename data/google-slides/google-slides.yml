@@ -1,0 +1,12 @@
+name: "Google Slides"
+description: "Cloud presentation app for personal and business use. Supports real-time co-editing, comments, and integration with Google Workspace."
+source_url: "https://slides.google.com/"
+category: "Presentation Software"
+tags:
+  - "freemium"
+  - "cloud"
+  - "collaboration"
+  - "google-workspace"
+icon_url: "https://icons.duckduckgo.com/ip3/slides.google.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://slides.google.com/>\n"
+updated_at: "2026-11-21 14:41"

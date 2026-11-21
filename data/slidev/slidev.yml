@@ -1,0 +1,13 @@
+name: "Slidev"
+description: "Markdown-based slide deck maker for developers. Runs in the browser, supports live code editing, Vue components, and exports to PDF."
+source_url: "https://sli.dev/"
+category: "Markdown & Code Slides"
+tags:
+  - "open-source"
+  - "markdown"
+  - "code"
+  - "developer"
+  - "browser"
+icon_url: "https://icons.duckduckgo.com/ip3/sli.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://sli.dev/>\n- Repository: <https://github.com/slidevjs/slidev>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 14:41"

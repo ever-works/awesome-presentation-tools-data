@@ -1,0 +1,12 @@
+name: "Remark.js"
+description: "Lightweight Markdown slideshow generator that runs in the browser. Requires no build step and supports custom themes."
+source_url: "https://remark.js.org/"
+category: "Markdown & Code Slides"
+tags:
+  - "open-source"
+  - "markdown"
+  - "javascript"
+  - "browser"
+icon_url: "https://icons.duckduckgo.com/ip3/remark.js.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://remark.js.org/>\n- Repository: <https://github.com/gnab/remark>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 14:41"
